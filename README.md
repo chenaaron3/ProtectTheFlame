@@ -5,7 +5,6 @@ Span of Project: 6/10-24/18
 
 **How To Play**
 1. Download the .rar file.
-
 2. Run the .exe file.
 
 **Game Background**
