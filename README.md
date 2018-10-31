@@ -3,6 +3,11 @@
 
 Span of Project: 6/10-24/18
 
+**How To Play**
+1. Download the .rar file.
+
+2. Run the .exe file.
+
 **Game Background**
 
   The player is a protective guardian that rotates around a friendly fire spirit. Enemies will spawn randomly around the screen and walk towards the flame. The player needs to shoot fireballs to kill the enemies and protect the fire spirit. Shooting will drain the fire's vitality by a little, but enemy contact with the fire will deplete the flame's strength significantly. The player can restore the fire's strength by using hooking dead enemy corpses into the fire. Hooking a dead body will give the player a Bone, which is the game's currency. Ocasionally, a truck will enter the screen that offers the players items at the price of Bones. These items include rock obstacles, player upgrades, traps, and friendly minions. 
