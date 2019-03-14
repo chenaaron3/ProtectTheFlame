@@ -6,6 +6,9 @@ Span of Project: 6/10-24/18
 **How To Play**
 1. Download the .rar file.
 2. Run the .exe file.
+3. Q/E to rotate
+4. Space to shoot
+5. 1/2 to switch between fire and hook mode
 
 **Game Background**
 
