@@ -1,5 +1,5 @@
 # ProtectTheFlame
-**Unity Game**
+**Unity Game Path Finding**
 
 Span of Project: 6/10-24/18
 
