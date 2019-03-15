@@ -11,16 +11,14 @@ Span of Project: 6/10-24/18
 5. 1/2 to switch between fire and hook mode
 
 **Game Background**
-tl;dr
-- protect a fire spirit
-- rotate around the spirit to shoot alive enemies or hook dead enemies
-- buy upgrades in a shop
+
+tl;dr: protect a fire spirit, rotate around the spirit to shoot alive enemies or hook dead enemies, buy upgrades in a shop
 
   The player is a protective guardian that rotates around a friendly fire spirit. Enemies will spawn randomly around the screen and walk towards the flame. The player needs to shoot fireballs to kill the enemies and protect the fire spirit. Shooting will drain the fire's vitality by a little, but enemy contact with the fire will deplete the flame's strength significantly. The player can restore the fire's strength by using hooking dead enemy corpses into the fire. Hooking a dead body will give the player a Bone, which is the game's currency. Ocasionally, a truck will enter the screen that offers the players items at the price of Bones. These items include rock obstacles, player upgrades, traps, and friendly minions. 
 
 **Script Accomplishments**
-tl;dr:
-- made custom path finding algorithm for enemies to detour around obstacles
+
+tl;dr: made custom path finding algorithm for enemies to detour around obstacles
 
   Probably the hardest part of this project was making the enemy path finding system. At first, I had a simple pathing system where the enemies would just walk directly at the fire in a direct and unelegant fashion. This served its purpose well: to give the enemies a target to threaten. However, I wanted to add the obstacle feature where players could place blocks and traffic the enemies through a specific opening. If I were to maintain the old pathing system where enemies would simply walk towards the fire, they would get stuck at an obstacle and endlessly walk into a wall. I had to revamp the pathing script and give the enemies a way to navigate around obstacles.
   
